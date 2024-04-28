@@ -54,7 +54,9 @@ h1 {
     padding: 10px;
     border-color: #dadada !important;
     background-color: lightgrey !important;
-    
+  }
+  button:hover{
+    background-color: #00BFFF !important;
   }
   body {
     background-color:lavenderblush !important;
